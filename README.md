@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 ## Sprint 1
 >Colocar o vídeo da apresentação
 
-[![SPRINT 1][(https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)](https://www.youtube.com/watch?v=NoLdCKkcR6A)]
+[![SPRINT 1][(https://www.youtube.com/watch?v=NoLdCKkcR6A)]
 
 
 ## Sprint 2
