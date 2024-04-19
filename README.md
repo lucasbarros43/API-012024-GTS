@@ -39,7 +39,8 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+![imagem 2 sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/c0fa9993-6c54-431f-b22c-aa2f60aff45e)
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
