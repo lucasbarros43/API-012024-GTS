@@ -113,10 +113,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Distribuição de tarefas pelo Scrum Master
->Reuniões com o cliente
->Análise de SWOT
->Análise de recursos e formas de como alavancar vendas e reduzir gastos
+Distribuição de tarefas pelo Scrum Master
+Reuniões com o cliente
+Análise de SWOT
+Análise de recursos e formas de como alavancar vendas e reduzir gastos
 
 ## Sprint 2 - Desenvolvimento do Projeto
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
