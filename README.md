@@ -53,7 +53,7 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 
 ## Sprint 1
 
-[![SPRINT 1](https://www.youtube.com/watch?v=NoLdCKkcR6A)
+[![SPRINT 1][(https://www.youtube.com/watch?v=NoLdCKkcR6A)]
 
 
 ## Sprint 2
