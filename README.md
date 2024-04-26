@@ -55,7 +55,7 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 
 ## Sprint 1
 
-[![SPRINT 1][(https://www.youtube.com/watch?v=NoLdCKkcR6A)]
+[![![SPRINT 1][(https://www.youtube.com/watch?v=NoLdCKkcR6A)]
 ![imagem 1 sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/06b863c9-7232-4751-9341-5a47a81ef5cc)
 
 
