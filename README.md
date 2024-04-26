@@ -150,12 +150,12 @@ Análise de recursos e formas de como alavancar vendas e reduzir gastos
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Análise de SWOT | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Logo Maker | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
  
 </details>
 
@@ -165,12 +165,12 @@ Análise de recursos e formas de como alavancar vendas e reduzir gastos
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Comprometimento | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Flexibilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
 
