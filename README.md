@@ -41,6 +41,8 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
+![gts equipe](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/50cc8e1b-fa07-47c9-93e9-828c8267483b)
+
 [imagem 2 sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/c0fa9993-6c54-431f-b22c-aa2f60aff45e)
 
 
