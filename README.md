@@ -1,3 +1,6 @@
+![GTS 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/668a95c7-3916-47f5-b650-2829bc58f968)
+
+
 # Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
