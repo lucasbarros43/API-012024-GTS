@@ -1,5 +1,6 @@
 ![GTS 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/668a95c7-3916-47f5-b650-2829bc58f968)
 
+Somos a GLOBAL TECNO SOLUTIONS, uma empresa de consultoria em gestão que tem como missão estratégica, olhar para o futuro da DOCE SABOR e garantir o desenvolvimento de seu potencial, atingindo suas metas, além de renovar ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
 
 # Aprendizado por Projeto Integrado (API) - Template
 
@@ -22,9 +23,6 @@ Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
-
-![GTS 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/668a95c7-3916-47f5-b650-2829bc58f968)
-Somos a GLOBAL TECNO SOLUTIONS, uma empresa de consultoria em gestão que tem como missão estratégica, olhar para o futuro da DOCE SABOR e garantir o desenvolvimento de seu potencial, atingindo suas metas, além de renovar ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
