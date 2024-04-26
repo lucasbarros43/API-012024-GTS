@@ -26,7 +26,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 14/04/2024 | concluido| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flucasbarros43%2FAPI-012024-GTS%2Fmain%2FSprint%25201%2Fdocumento%2FRelat%25C3%25B3rio%2520do%2520projeto%2520integrador%2520-%2520GTS%2520Group.docx&wdOrigin=BROWSELINK)) | 
+|Kick Off | 14/04/2024 | concluido| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flucasbarros43%2FAPI-012024-GTS%2Fmain%2FSprint%25201%2Fdocumento%2FRelat%25C3%25B3rio%2520do%2520projeto%2520integrador%2520-%2520GTS%2520Group.docx&wdOrigin=BROWSELINK) | 
 |01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
-![imagem 2 sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/c0fa9993-6c54-431f-b22c-aa2f60aff45e)
+[imagem 2 sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/c0fa9993-6c54-431f-b22c-aa2f60aff45e)
 
 
 <p align="center">
