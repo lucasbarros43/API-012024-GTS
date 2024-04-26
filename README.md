@@ -3,14 +3,7 @@
 
 # Aprendizado por Projeto Integrado (API) - Template
 
-Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à empresa Doce Sabor. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
-
-Sprint	Previsão	Status
-Kick Off	01/09/2023	concluido
-01	24/09/2023	concluido
-02	15/10/2023	concluido
-03	05/11/2023	concluido
-04	26/11/2023	Concluido
+Projeto pedagógico que tem como objetivo prestar um serviço de consultaria à empresa Doce Sabor. Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
 # Índice
 
