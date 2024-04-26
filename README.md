@@ -1,6 +1,6 @@
 <p align="center">
  
-![GTS 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/668a95c7-3916-47f5-b650-2829bc58f968)
+<![GTS 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/668a95c7-3916-47f5-b650-2829bc58f968)>
 
 </p>
 
