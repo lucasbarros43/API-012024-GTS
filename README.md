@@ -36,13 +36,10 @@ Sprint | Previsão | Status| Histórico|
 > Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
 
- Curso de etiqueta empresarial
- Curso de atendimento ao público
- Curso de oratória e aprtesentação em público
+Curso de etiqueta empresarial
+Curso de atendimento ao público
+Curso de oratória e aprtesentação em público
 
 # Equipe
 ![gts equipe](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/50cc8e1b-fa07-47c9-93e9-828c8267483b)
