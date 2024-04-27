@@ -1,6 +1,6 @@
 ![GTS 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/668a95c7-3916-47f5-b650-2829bc58f968)
 
-Somos a GLOBAL TECNO SOLUTIONS, uma empresa de consultoria em gestão que tem como missão estratégica, olhar para o futuro da DOCE SABOR e garantir o desenvolvimento de seu potencial, atingindo suas metas, além de renovar ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
+Somos a GLOBAL TECNO SOLUTIONS, uma empresa de consultoria  especializada em gestão que tem como missão estratégica, olhar para o futuro da DOCE SABOR e garantir o desenvolvimento de seu potencial, atingindo suas metas, além de renovar ideias passadas, atribuindo assim, novos recursos para um futuro brilhante.
 
 # Aprendizado por Projeto Integrado (API)
 
