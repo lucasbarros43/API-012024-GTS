@@ -42,12 +42,9 @@ Curso de atendimento ao público
 Curso de oratória e aprtesentação em público
 
 # Equipe
-![gts equipe](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/50cc8e1b-fa07-47c9-93e9-828c8267483b)
-
-
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/50cc8e1b-fa07-47c9-93e9-828c8267483b" width="100%"/>
 </p>
 
 # Objetivo do Projeto
@@ -56,18 +53,15 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-
-[![![SPRINT 1][(https://www.youtube.com/watch?v=NoLdCKkcR6A)]
-![imagem 1 sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/06b863c9-7232-4751-9341-5a47a81ef5cc)
-
+[![SPRINT 1](https://img.youtube.com/vi/NoLdCKkcR6A/0.jpg)](https://youtu.be/NoLdCKkcR6A)
 
 ## Sprint 2
->Colocar o vídeo da apresentação
 
-[![SPRINT 2]([https://www.youtube.com/watch?v=NoLdCKkcR6A](https://www.youtube.com/watch?v=x6ZN4ay-oGw))
+
+[![SPRINT 1](https://img.youtube.com/vi/x6ZN4ay-oGw/0.jpg)](https://youtu.be/x6ZN4ay-oGw)
 
 ## Sprint 3
->Colocar o vídeo da apresentação
+
 
 [![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
