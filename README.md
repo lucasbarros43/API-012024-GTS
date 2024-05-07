@@ -64,7 +64,7 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 ## Sprint 2
 >Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)]([https://youtu.be/codigo_do_seu_video](https://www.youtube.com/watch?v=NoLdCKkcR6A)
+[![SPRINT 2]([https://youtu.be/codigo_do_seu_video](https://www.youtube.com/watch?v=NoLdCKkcR6A)
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
