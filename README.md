@@ -59,7 +59,7 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 ## Sprint 3
 
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/Z3XodYZuZ-8)
+[![SPRINT 3](https://img.youtube.com/vi/Z3XodYZuZ-8)](https://youtu.be/Z3XodYZuZ-8)
 
 
 
