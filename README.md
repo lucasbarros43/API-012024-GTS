@@ -33,9 +33,9 @@ Sprint | Previsão | Status| Histórico|
 
 # Micro Certificações
 
-Curso de etiqueta empresarial
-Curso de atendimento ao público
-Curso de oratória e aprtesentação em público
+<p align="center">
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 # Equipe
 
