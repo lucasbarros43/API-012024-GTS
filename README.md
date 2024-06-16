@@ -115,7 +115,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 [Github Doc] (https://github.com/users/lucasbarros43/projects/8/views/1)
 
 ## Burndown
->Colocar aqui Burndown do projeto
+![burndown git](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/11270357-7c51-47fe-a666-bbe10fbe631e)
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
