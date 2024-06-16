@@ -118,6 +118,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
 </p>
 
+[Github Doc] (https://github.com/users/lucasbarros43/projects/8/views/1)
+
 ## Burndown
 >Colocar aqui Burndown do projeto
 
