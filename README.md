@@ -105,7 +105,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+![git 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/22cdbedd-29ec-4775-afd2-2310f94e3886)
+
+![git 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/38a8ee5f-da4a-4aa4-ab35-d607c79df25a)
+
+![git 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/96b399f1-e72d-4348-bb14-2da183391e8a)
+
+![git 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/806430ca-c925-4b9e-ae66-48d417ad7583)
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
