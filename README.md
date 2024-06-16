@@ -113,11 +113,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ![git 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/806430ca-c925-4b9e-ae66-48d417ad7583)
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
-
 [Github Doc] (https://github.com/users/lucasbarros43/projects/8/views/1)
 
 ## Burndown
