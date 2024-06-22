@@ -74,6 +74,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 >Colocar o vídeo da apresentação
 
 [![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![imagem feira gts](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/4e9aeb2e-8d30-46e3-ba8c-d5063bd4ee99)
 
 
 ## Tecnologias Utilizadas
