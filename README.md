@@ -119,23 +119,26 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 </p>
 
 ## Sprint 1 - Concepção
-Distribuição de tarefas pelo Scrum Master
-Reuniões com o cliente
-Análise de SWOT
-Análise de recursos e formas de como alavancar vendas e reduzir gastos
+![cronograma sprint 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/515ccd76-6dfc-4a8d-91ee-ddf617e34bea)
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![crono sprint 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/3000d7b7-6335-4286-b3da-756db33a169e)
+
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![crono sprint 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/94dff335-6f75-49cb-8d24-5ae6ac3b6671)
+
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+![crono sprint 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/52a295ed-d256-4095-a2c7-cd197d791493)
+
 
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Organização
+> Trabalho em equipe
+> 
 
 ## Hard Skill (saber tecnológico)
 <details>
