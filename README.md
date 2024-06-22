@@ -136,9 +136,10 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 
 # Competências desenvolvidas
 > Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-> Organização
-> Trabalho em equipe
-> 
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+Organização
+Trabalho em equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
