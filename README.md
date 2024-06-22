@@ -78,6 +78,9 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ## Tecnologias Utilizadas
+
+![imagem tecnologias](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/190a1ec8-440f-46c1-8e57-46a4d209cf9d)
+
 ### Produto 
 
 Sprint 1
