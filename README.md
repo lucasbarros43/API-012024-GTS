@@ -139,33 +139,6 @@ Relacionamento interpessoal
 
 Liderança
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-
-Conhecimento técnico
-
-Foco em resultados
-
-Desenvolvimento de tecnologias
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| Análise de SWOT | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Logo Maker | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
- 
-</details>
-
-## Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-Relacionamento interpessoal
-
 Pensamento criativo
 
 Proatividade
@@ -185,6 +158,31 @@ Comunicação
 Mediação de conflitos
 
 Empatia
+
+Conhecimento técnico
+
+Foco em resultados
+
+Desenvolvimento de tecnologias
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| Análise de SWOT | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Logo Maker | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
