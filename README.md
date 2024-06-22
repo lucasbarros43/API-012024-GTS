@@ -113,18 +113,18 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 ![burndown git](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/11270357-7c51-47fe-a666-bbe10fbe631e)
 
 
-## Sprint 1 - Concepção
+## Sprint 1 - SWOT
 ![cronograma sprint 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/515ccd76-6dfc-4a8d-91ee-ddf617e34bea)
 
-## Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2 - Previsão de demanda
 ![crono sprint 2](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/3000d7b7-6335-4286-b3da-756db33a169e)
 
       
-## Sprint 3 - Implementação
+## Sprint 3 - Curva ABC
 ![crono sprint 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/94dff335-6f75-49cb-8d24-5ae6ac3b6671)
 
       
-## Sprint 4 - Operacionalização
+## Sprint 4 - CANVAS
 ![crono sprint 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/52a295ed-d256-4095-a2c7-cd197d791493)
 
 
