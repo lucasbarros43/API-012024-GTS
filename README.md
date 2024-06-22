@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 14/04/2024 | concluido| [Ver Relatório](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Flucasbarros43%2FAPI-012024-GTS%2Fmain%2FSprint%25201%2Fdocumento%2FRelat%25C3%25B3rio%2520do%2520projeto%2520integrador%2520-%2520GTS%2520Group.docx&wdOrigin=BROWSELINK) | 
 |02|  05/05/2024| concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%202/documento/Relat%C3%B3rio%20do%20projeto%20integrador%20Sprint%202%20-%20GTS%20Group.docx) | 
 |03| 26/05/2024 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 16/06/2024 | em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|04| 16/06/2024 | concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
