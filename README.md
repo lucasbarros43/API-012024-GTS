@@ -79,9 +79,6 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ## Tecnologias Utilizadas
 
-![tecnologias](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/ffc713af-882f-4e1e-b55e-cf8ab67ce213)
-
-
 ### Produto 
 
 ![produto sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/6e93df51-4867-40a8-8ce3-1d7157d88b58)
@@ -89,6 +86,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ### Tecnológias Específicas/Apoio
 
+![tecnologias](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/ffc713af-882f-4e1e-b55e-cf8ab67ce213)
 
 ### Mindset Digital
 Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
