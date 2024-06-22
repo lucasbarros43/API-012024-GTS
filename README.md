@@ -96,7 +96,7 @@ Encorajamos a busca por soluções criativas e inovadoras para os desafios, apro
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints(clique aqui)[(https://github.com/users/lucasbarros43/projects/8)]
+#### Cronograma das Sprints[![Clique aqui][(https://github.com/users/lucasbarros43/projects/8)]
 
 ## Backlog do produto
 ![git 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/22cdbedd-29ec-4775-afd2-2310f94e3886)
