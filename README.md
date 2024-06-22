@@ -84,19 +84,11 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 ### Produto 
 
-Sprint 1
- Apresentação da nossa empresa de gestão
- Análise de SWOT
-Sprint 2
- Previsões de demanda
+![produto sprint](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/6e93df51-4867-40a8-8ce3-1d7157d88b58)
+
 
 ### Tecnológias Específicas/Apoio
 
-BrainStorm (Reuniões diárias)
-Análise de SWOT
-Pacote Office (Excel, Word, Paint, Power Point, Power BI)
-Github
-Canva (utilizado para montagem do vídeo de apresentação das SPRINTs)
 
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
