@@ -108,15 +108,10 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 
 ![git 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/806430ca-c925-4b9e-ae66-48d417ad7583)
 
-[Github Doc] (https://github.com/users/lucasbarros43/projects/8/views/1)
 
 ## Burndown
 ![burndown git](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/11270357-7c51-47fe-a666-bbe10fbe631e)
 
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
 
 ## Sprint 1 - Concepção
 ![cronograma sprint 1](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/515ccd76-6dfc-4a8d-91ee-ddf617e34bea)
