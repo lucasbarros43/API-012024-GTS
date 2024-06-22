@@ -134,7 +134,10 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 <details>
 <summary>Hard Skills desenvolvidas</summary>
 Organização
+ 
 Trabalho em equipe
+
+
 
 ## Hard Skill (saber tecnológico)
 <details>
