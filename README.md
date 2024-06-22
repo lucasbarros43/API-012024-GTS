@@ -130,18 +130,24 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+
 Organização
  
 Trabalho em equipe
 
+Relacionamento interpessoal
 
+Liderança
 
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
+
+Conhecimento técnico
+
+Foco em resultados
+
+Desenvolvimento de tecnologias
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -157,6 +163,28 @@ Trabalho em equipe
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
+
+Relacionamento interpessoal
+
+Pensamento criativo
+
+Proatividade
+
+Comprometimento
+
+Inteligência emocional
+
+Flexibilidade
+
+Capacidade de inovação
+
+Automotivação
+
+Comunicação
+
+Mediação de conflitos
+
+Empatia
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
