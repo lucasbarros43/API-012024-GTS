@@ -91,7 +91,7 @@ Vídeo com a apresentação final da API do "semestre/ano"
 
 
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
 
 # Cronograma das Sprints
 
