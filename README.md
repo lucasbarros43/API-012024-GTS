@@ -105,7 +105,7 @@ Clique no link para ser direcionado para o o cronograma > (https://github.com/us
 
 ![git 3](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/96b399f1-e72d-4348-bb14-2da183391e8a)
 
-![git 4](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/806430ca-c925-4b9e-ae66-48d417ad7583)
+![sprint 4 crono atualizado](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/0a355c82-f220-4487-a47f-bac356214b8f)
 
 
 ## Burndown
