@@ -70,8 +70,7 @@ Este projeto tem como objetivo olhar para o futuro da DOCE SABOR e garantir a re
 
 
 ## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
+Vídeo com a apresentação final da API do "1º Semestre/2024" em Gestão da Produção Industrial
 
 [![feira](https://img.youtube.com/vi/RmM45v9na-U/0.jpg)](https://youtu.be/RmM45v9na-U)
 ![imagem feira gts](https://github.com/lucasbarros43/API-012024-GTS/assets/162647577/4e9aeb2e-8d30-46e3-ba8c-d5063bd4ee99)
