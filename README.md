@@ -27,7 +27,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  05/05/2024| concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
 |03| 26/05/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
 |04| 16/06/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) |
-|Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
+|Feira de Soluções|27/06/2024 | concluído |[Ver Relatório](https://github.com/lucasbarros43/API-012024-GTS/blob/main/Sprint%204/documento/Relat%C3%B3rio%20de%20Projeto%20Integrador%20-%2001.2024%20GPI.pdf) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
